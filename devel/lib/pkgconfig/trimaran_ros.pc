@@ -1,0 +1,8 @@
+prefix=/home/thib/workspaceRos/devel
+
+Name: trimaran_ros
+Description: Description of trimaran_ros
+Version: 0.0.0
+Cflags: -I/home/thib/workspaceRos/src/Stage2APlymouth/trimaran_ros/include
+Libs: -L${prefix}/lib 
+Requires: 
